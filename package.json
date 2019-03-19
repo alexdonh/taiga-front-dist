@@ -15,7 +15,8 @@
   ],
   "devDependencies": {
     "bluebird": "^2.6.4",
-    "del": "^1.1.1",
-    "ncp": "^1.0.1"
+    "del": "^4.0.0",
+    "fs-extra": "^7.0.1",
+    "rimraf": "^2.6.3"
   }
 }
